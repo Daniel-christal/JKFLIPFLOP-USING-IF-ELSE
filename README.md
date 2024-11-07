@@ -50,6 +50,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 ```
 Developed by: Daniel C
 RegisterNumber:212223240023
+```
+```
 module JKFlipflop(q, qb,j,k,clock,reset);
     input j,k,clock,reset;
     output reg q, qb;
@@ -98,4 +100,5 @@ endmodule
 ![image](https://github.com/user-attachments/assets/2f238068-b78f-4a31-9b21-6a44f02e9c15)
 
 **RESULTS**
+
 Thus,the Implementation of JK flipflop using verilog is executed and the output is verified successfully.
